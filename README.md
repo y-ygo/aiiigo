@@ -5,7 +5,7 @@ Computational Thinking Exercise: "Smart Vending Machine"
 
 Section: 9 - Arayat         Score:____________
 
-C# / Name: Angeles, Apostol, Aquino  (C.N 1,2,3) Date: _____________ 
+C# / Name: Angeles, Apostol, Aquino  (C.N 1,2,3) Date: 08/13/2026
 
 
 Scenario
