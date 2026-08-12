@@ -1,5 +1,5 @@
-# aiiigo
-🫪
+# Q1
+
 Annex B
 Computational Thinking Exercise: "Smart Vending Machine"
 
