@@ -8,7 +8,7 @@ Section: 9 - Arayat         Score:____________
 C# / Name: Angeles, Apostol, Aquino  (C.N 1,2,3) Date: 08/13/2026
 
 
-Scenario
+Scenario:
 Your school installs a vending machine to provide snacks and drinks. However, students encounter several issues:
 
 Sometimes the machine does not give the correct change.
