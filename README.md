@@ -13,6 +13,6 @@
 
 ## SG 7 Activity: https://github.com/y-ygo/aiiigo/blob/main/Q1/q1_sg7_arayat_apostol.py
 
-## Car Sample: 
+## Car Sample: https://github.com/y-ygo/aiiigo/blob/main/Q1/sample_car.py
 
-## Tusoktusok Sample: 
+## Tusoktusok Sample: https://github.com/y-ygo/aiiigo/blob/main/Q1/sample_tusoktusok.py
