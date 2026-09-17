@@ -1,5 +1,6 @@
 #2 Vito Ynigo D. Apostol | 9 - Arayat
-![🐈](https://giphy.com/gifs/cat-eating-eat-D10MRUuHblyFfRzQiQ)
+
+![🐈]([https://giphy.com/gifs/cat-eating-eat-D10MRUuHblyFfRzQiQ](https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyMnB1ajBsNHFhMHU4N3Y5YnFzOHVuOGR2ODdraTQ0YnZwcWw3bmkzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D10MRUuHblyFfRzQiQ/giphy.gif))
 
 # **Q1**
 ## SG 2 Activity 1: https://github.com/y-ygo/aiiigo/blob/main/Q1/q1_sg2_a1.md
