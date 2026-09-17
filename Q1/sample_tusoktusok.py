@@ -1,24 +1,27 @@
+#AGGREGATION
+
+# CLASSES
 class Sauce:
     def __init__(self,name,taste):
         self.name=name
         self.taste=taste
-        print(f"{self.name} is cooked.")
+        print(f"{self.name} is cooked")
     def __del__(self):
-        print(f"{self.name} is ubos na.")
+        print(f"{self.name} is ubos na")
     def __str__(self):
-        return "This is "+self.name+" and it tastes "+self.taste+"."
+        return "This is "+self.name+" and it tastes "+self.taste
 
 class Tusoktusok:
     def __init__(self,name,sauce):
         self.name=name
         self.sauce=sauce
-        print(f"{self.name} is cooked and dipped in {self.sauce.name}.")
+        print(f"{self.name} is cooked and dipped in {self.sauce.name}")
     def eat(self):
-        print(f"I am eating {self.name} and it tastes {self.sauce.taste}.")
+        print(f"I am eating {self.name} and it tastes {self.sauce.taste}")
     def __del__(self):
-        print(f"{self.name} was thrown in the trash can.")
+        print(f"{self.name} was thrown in the trash can")
 
-vinegar=Sauce("Vinegar","sour")
+vinegar=Sauce("vinegar","sour")
 fishball=Tusoktusok("fishball",vinegar)
 fishball.eat()
 del fishball
